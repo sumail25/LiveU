@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+/debug/
+
+# macOS
+.DS_Store
+
+# Local editor/workspace settings
+.vscode/
+
+# Local Python version pin (optional per-developer)
+.python-version
